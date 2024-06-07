@@ -1,6 +1,6 @@
 ・CARTOのログイン：https://carto.com/</br>
 ・Workflowのテンプレート：https://bootcamp24.s3.ap-northeast-1.amazonaws.com/bootcamp_tokyo_2024_Workflows.sql</br>
-・使用するデータ: https://bootcamp24.s3.ap-northeast-1.amazonaws.com/mdp_2021_reprojecter.parquet
+・使用するデータ: https://bootcamp24.s3.ap-northeast-1.amazonaws.com/mdp_2021_reprojecter.parquet</br>
 ・select文：
 
 (_1_0_0+_2_0_0+_3_0_0+_4_0_0+_5_0_0+_6_0_0+_7_0_0+_8_0_0+_9_0_0+_10_0_0+_11_0_0+_12_0_0)/12 as weekdays_daytime_ave,(_1_0_1+_2_0_1+_3_0_1+_4_0_1+_5_0_1+_6_0_1+_7_0_1+_8_0_1+_9_0_1+_10_0_1+_11_0_1+_12_0_1)/12 as weeddays_nigt_ave,(_1_1_0+_2_1_0+_3_1_0+_4_1_0+_5_1_0+_6_1_0+_7_1_0+_8_1_0+_9_1_0+_10_1_0+_11_1_0+_12_1_0)/12 as weekend_daytime_ave,(_1_1_1+_2_1_1+_3_1_1+_4_1_1+_5_1_1+_6_1_1+_7_1_1+_8_1_1+_9_1_1+_10_1_1+_11_1_1+_12_1_1)/12 as weekend_night_ave,(_1_2_0+_2_2_0+_3_2_0+_4_2_0+_5_2_0+_6_2_0+_7_2_0+_8_2_0+_9_2_0+_10_2_0+_11_2_0+_12_2_0)/12 as daytime_ave, (_1_2_1+_2_2_1+_3_2_1+_4_2_1+_5_2_1+_6_2_1+_7_2_1+_8_2_1+_9_2_1+_10_2_1+_11_2_1+_12_2_1)/12 as night_ave,(_3_2_0+_4_2_0+_5_2_0)/3 as spring_daytime_ave, (_6_2_0+_7_2_0+_8_2_0)/3 as summer_daytime_ave, (_9_2_1+_10_2_1+_11_2_1)/3 as autumn_daytime_ave,(_1_2_0+_2_2_0+_12_2_0)/3 as winter_daytime_ave
