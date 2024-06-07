@@ -1,5 +1,4 @@
-・CARTOのログイン：https://auth.carto.com/u/login?state=hKFo2SBndWZaNGFXenVrbmJsY2QzeGVDSm50eERrWVpDbVl[…]szd1dRNHo4o2NpZNkgakNXbkhLNkUySzJhT3k5akx5M083Wk1waHFHTzlCUEw</br>
-・データのS3のURL：https://bootcamp24.s3.ap-northeast-1.amazonaws.com/mdp_2021_reprojecter.parquet</br>
+・CARTOのログイン：https://carto.com/</br>
 ・Workflowのテンプレート：https://bootcamp24.s3.ap-northeast-1.amazonaws.com/bootcamp_tokyo_2024_Workflows.sql</br>
 ・select文：
 
