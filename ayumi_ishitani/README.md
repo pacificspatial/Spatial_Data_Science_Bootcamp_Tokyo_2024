@@ -7,4 +7,4 @@
 
 
 ・完成した地図
-https://thunbergii.app.carto.com/map/7f7f77ce-3dad-4a7b-a54c-c9f3f2671fdc
+https://thunbergii.app.carto.com/map/3a6afe8a-d1c9-448e-b881-1f24f9a8dd8e?lat=35.561346&lng=139.772310&zoom=9
