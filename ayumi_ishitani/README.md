@@ -1,5 +1,5 @@
 # 空間インデックス基礎（ハンズオン）</br>
-## 石谷 歩実（Pacific Spatial Solutions 株式会社）
+**石谷 歩実（Pacific Spatial Solutions 株式会社）** </br>
 </br>
 
 ## 資料</br>
