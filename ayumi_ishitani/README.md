@@ -1,4 +1,6 @@
-# 空間インデックス基礎（ハンズオン）/ 石谷 歩実（Pacific Spatial Solutions 株式会社）
+# 空間インデックス基礎（ハンズオン）</br>
+## 石谷 歩実（Pacific Spatial Solutions 株式会社）
+</br>
 
 ## 資料</br>
 ### <a href="https://bootcamp24.s3.ap-northeast-1.amazonaws.com/【投影資料】spatial_indexes_2024.pdf">【投影資料】spatial_indexes_2024.pdf</a>：イベント時の投影資料</br>
