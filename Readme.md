@@ -1,10 +1,10 @@
-## Spatial Data Science Bootcamp Tokyo 2024</br>
+# Spatial Data Science Bootcamp Tokyo 2024</br>
 </br>
 
-### 3DスキャンとAR（ユースケース）：白石 淳二（Niantic. Inc）</br>
+**3DスキャンとAR（ユースケース）：白石 淳二（Niantic. Inc）**</br>
 </br>
 
-### Luupにおける地理空間データの活用（ユースケース）：牧田 涼太郎、小林 瑞紀（株式会社Luup）</br>
+**Luupにおける地理空間データの活用（ユースケース）：牧田 涼太郎、小林 瑞紀（株式会社Luup）**</br>
 </br>
 
 ### NHK 災害情報マップ 〜開発の経緯、運用と課題〜 （ユースケース）:小椋 崇広（日本放送協会(NHK)）</br>
